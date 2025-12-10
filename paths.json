@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/en:/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/en/:/en/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/fr/:/fr/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/fr:/fr",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/es/:/es/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/es:/es",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/ja/:/ja/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/ja:/ja",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/de/:/de/",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/language-masters/de:/de",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/configuration:/.helix/config.json",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/metadata:/metadata.json",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/redirects:/redirects.json",
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/placeholders:/placeholders.json"
+    "/content/praffuls-wknd-10-dec/language-masters/en:/",
+    "/content/praffuls-wknd-10-dec/language-masters/en/:/en/",
+    "/content/praffuls-wknd-10-dec/language-masters/fr/:/fr/",
+    "/content/praffuls-wknd-10-dec/language-masters/fr:/fr",
+    "/content/praffuls-wknd-10-dec/language-masters/es/:/es/",
+    "/content/praffuls-wknd-10-dec/language-masters/es:/es",
+    "/content/praffuls-wknd-10-dec/language-masters/ja/:/ja/",
+    "/content/praffuls-wknd-10-dec/language-masters/ja:/ja",
+    "/content/praffuls-wknd-10-dec/language-masters/de/:/de/",
+    "/content/praffuls-wknd-10-dec/language-masters/de:/de",
+    "/content/praffuls-wknd-10-dec/configuration:/.helix/config.json",
+    "/content/praffuls-wknd-10-dec/metadata:/metadata.json",
+    "/content/praffuls-wknd-10-dec/redirects:/redirects.json",
+    "/content/praffuls-wknd-10-dec/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/praffuls-praffuls-wknd-09-dec-03-24/",
-    "/content/dam/praffuls-praffuls-wknd-09-dec-03-24/"
+    "/content/praffuls-wknd-10-dec/",
+    "/content/dam/praffuls-wknd-10-dec/"
   ]
 }
